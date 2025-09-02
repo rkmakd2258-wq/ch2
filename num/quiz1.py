@@ -1,0 +1,7 @@
+print( 25 + 7 )
+print(100 - 45)
+print(12 *8)
+print(4**2)
+print(17/5)
+print(17//5)
+print(17%5)
